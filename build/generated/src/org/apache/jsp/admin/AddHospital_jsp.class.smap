@@ -1,0 +1,12 @@
+SMAP
+AddHospital_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddHospital.jsp
+admin/AddHospital.jsp
+*L
+5,80:44
+85,3:124,3
+88,27:133
+*E
